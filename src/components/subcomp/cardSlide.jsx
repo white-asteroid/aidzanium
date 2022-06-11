@@ -1,6 +1,6 @@
 // import Carousel from 'carousel-react-rcdev'
 import react from "react";
-import CardComp from "./subcomp/CardComp";
+import CardComp from "./CardComp";
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button'
 export default function CardSlides() {
