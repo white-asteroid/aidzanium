@@ -15,9 +15,9 @@ import './App.css';
       {/* Vandana quiz game route */}
       <Route exact path="/game1" element={<Game1 />} />
       {/* Devanshi (second) game route */}
-      {/* <Route exact path="/game1" element={<Game2 />} /> */}
+      {/* <Route exact path="/game2" element={<Game2 />} /> */}
       {/* Vandana (third) game route */}
-      {/* <Route exact path="/game1" element={<Game2 />} /> */}
+      {/* <Route exact path="/game3" element={<Game3 />} /> */}
     </Routes>
   </BrowserRouter>
 
