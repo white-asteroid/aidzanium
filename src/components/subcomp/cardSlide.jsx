@@ -1,5 +1,5 @@
 // import Carousel from 'carousel-react-rcdev'
-import react from "react";
+import React from "react";
 import CardComp from "./CardComp";
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button'
