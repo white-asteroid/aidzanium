@@ -16,8 +16,8 @@ function Game1() {
       if (iscorrect)
         setScore(score + 1);
       setClicked(true);
-      console.log("wrong :" + iscorrect);
-      console.log("good");
+      // console.log("wrong :" + iscorrect);
+      // console.log("good");
     }
     else {
       console.log("wrong :" + iscorrect);
